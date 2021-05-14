@@ -1,10 +1,12 @@
 The following is a correct unencrypted-encrypted pair:
 
-Unencrypted text="Hello"
+Unencrypted text="Hello";
+
 Encrypted text="cy0sjkZX8vNG3sCuGBrG5sUH+8qcePX+7S89JVXfCahKzt02yvNOrLeNEJvJlLbdDdXU4cSI/P9zDQ4ZGBdJoBIY0II2R+wt3cviyXuOiGzETNa3rizybd1akY4z/OGljxMJu/dyZdkeJtiWm8Z3GwkpToRvXbKi4dhep/xOHpeVpnSFA3oQKaxoYmextUXoFONj6sOZeucUVH8ZXjWgSZeFZk6ca2lEgtAeQBoKhdA0PuZJUlBnyUWTtVGyTpCNCJI+9fHYiVZiWd4luioZVtssUxi/qr30BSMYAAkQtvaAQWZUdE1JKNISTO26K8f27m163k1LWvEtc14EYAC9MA=="
 
 
 The following pair is not a correct unencrypted-encrypted pair:
 
-Unencrypted text="Hi"
+Unencrypted text="Hi";
+
 Encrypted text="DJ0sjkZX8vNG3sCuGBrG5sUH+8qcePX+7S89JVXfCahKzt02yvNOrLeNEJvJlLbdDdXU4cSI/P9zDQ4ZGBdJoBIY0II2R+wt3cviyXuOiGzETNa3rizybd1akY4z/OGljxMJu/dyZdkeJtiWm8Z3GwkpToRvXbKi4dhep/xOHpeVpnSFA3oQKaxoYmextUXoFONj6sOZeucUVH8ZXjWgSZeFZk6ca2lEgtAeQBoKhdA0PuZJUlBnyUWTtVGyTpCNCJI+9fHYiVZiWd4luioZVtssUxi/qr30BSMYAAkQtvaAQWZUdE1JKNISTO26K8f27m163k1LWvEtc14EYACLOL=="
